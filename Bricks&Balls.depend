@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1647015779 source:e:\code\sdl2\bricks&balls\main.cpp
+	"game.h"
+
+1647044267 e:\code\sdl2\bricks&balls\game.h
+	<event.h>
+
+1646808325 source:e:\code\sdl2\bricks&balls\game.cpp
+	"game.h"
+
+1646488489 source:e:\code\sdl2\bricks&balls\clientgame.cpp
+	"clientGame.h"
+
+1646449497 e:\code\sdl2\bricks&balls\clientgame.h
+	<parameter.h>
+
+1646989657 source:e:\code\sdl2\bricks&balls\event.cpp
+	"event.h"
+
+1646828509 e:\code\sdl2\bricks&balls\event.h
+	"clientGame.h"
+	"play.h"
+
+1647056221 e:\code\sdl2\bricks&balls\parameter.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	<queue>
+	<stack>
+	<SDL.h>
+	<SDL_image.h>
+
+1647055912 source:e:\code\sdl2\bricks&balls\play.cpp
+	"play.h"
+
+1647046078 e:\code\sdl2\bricks&balls\play.h
+	"level.h"
+	"setting.h"
+	<cstdlib>
+	<ctime>
+
+1646450001 e:\code\sdl2\bricks&balls\level.h
+	<parameter.h>
+
+1646471724 e:\code\sdl2\bricks&balls\setting.h
+	<parameter.h>
+
+1646488508 source:e:\code\sdl2\bricks&balls\level.cpp
+	"level.h"
+
+1646488521 source:e:\code\sdl2\bricks&balls\setting.cpp
+	"setting.h"
+
+1647053610 source:e:\code\sdl2\bricks&balls\parameter.cpp
+	"parameter.h"
+
